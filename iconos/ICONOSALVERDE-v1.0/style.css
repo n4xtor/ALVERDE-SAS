@@ -1,0 +1,130 @@
+@font-face {
+  font-family: 'ICONOSALVERDE';
+  src:
+    url('fonts/ICONOSALVERDE.ttf?bl3hzh') format('truetype'),
+    url('fonts/ICONOSALVERDE.woff?bl3hzh') format('woff'),
+    url('fonts/ICONOSALVERDE.svg?bl3hzh#ICONOSALVERDE') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.icon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'ICONOSALVERDE' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ico-alianzablanco:before {
+  content: "\e905";
+  color: #fff;
+}
+.ico-carreterablanco:before {
+  content: "\e906";
+  color: #fff;
+}
+.ico-anclajeblanco:before {
+  content: "\e904";
+  color: #fff;
+}
+.ico-anclaje:before {
+  content: "\e903";
+  color: #1abc9c;
+}
+.ico-cercos01:before {
+  content: "\e902";
+  color: #1abc9c;
+}
+.ico-alianza:before {
+  content: "\e900";
+  color: #1abc9c;
+}
+.ico-carretera:before {
+  content: "\e901";
+  color: #1abc9c;
+}
+.ico-cercos:before {
+  content: "\e908";
+  color: #fff;
+}
+.ico-compromiso:before {
+  content: "\e909";
+  color: #1abc9c;
+}
+.ico-honestidad:before {
+  content: "\e90a";
+  color: #1abc9c;
+}
+.ico-mision:before {
+  content: "\e90b";
+  color: #1abc9c;
+}
+.ico-paisajismo:before {
+  content: "\e90c";
+  color: #1abc9c;
+}
+.ico-paisajismoblanco:before {
+  content: "\e90d";
+  color: #fff;
+}
+.ico-reforestacion-01:before {
+  content: "\e90e";
+  color: #1abc9c;
+}
+.ico-reforestacionblanco:before {
+  content: "\e90f";
+  color: #fff;
+}
+.ico-respeto:before {
+  content: "\e910";
+  color: #1abc9c;
+}
+.ico-responsabilidad:before {
+  content: "\e911";
+  color: #1abc9c;
+}
+.ico-revegetalizacion:before {
+  content: "\e912";
+  color: #1abc9c;
+}
+.ico-revegetalizacionblanco:before {
+  content: "\e913";
+  color: #fff;
+}
+.ico-siembra-01:before {
+  content: "\e914";
+  color: #1abc9c;
+}
+.ico-siembrablanco:before {
+  content: "\e915";
+  color: #fff;
+}
+.ico-tala:before {
+  content: "\e916";
+  color: #fff;
+}
+.ico-talaarbol:before {
+  content: "\e917";
+  color: #1abc9c;
+}
+.ico-talud-01:before {
+  content: "\e918";
+  color: #1abc9c;
+}
+.ico-taludblanco:before {
+  content: "\e919";
+  color: #fff;
+}
+.ico-vision:before {
+  content: "\e91a";
+  color: #1abc9c;
+}
